@@ -11,7 +11,11 @@ AI-Hub의 [개인형 이동장치 안전 데이터](https://www.aihub.or.kr/aihu
 ### 데이터 전처리
 
 ## 학습
-
+```
+python train.py
+```
 ## 추론
-
+```
+python test.py
+```
 ## 프로젝트 설명 페이지
