@@ -1,6 +1,6 @@
 # Kickboard-Detection
 🚦 Kickboard Dangerous Situation Detection (Deep Daiv. '24su Deep Learning Team)
-<br>(팀명: 디비딥러닝 - [이건](https://github.com/klee9), [이호균](https://github.com/lhg010524), [손보민](https://github.com/sbm5042), [황재령](https://github.com/Hwang-Jaeryeong)<br><br>
+<br>(팀명: 디비딥러닝 - [이건](https://github.com/klee9), [이호균](https://github.com/lhg010524), [손보민](https://github.com/sonbomin), [황재령](https://github.com/Hwang-Jaeryeong)<br><br>
 ## 소개
 인공지능 연합 프로젝트 팀 deep daiv.의 2024 여름 기수 딥러닝 입문 <디비딥러닝> 팀의 2번째 프로젝트로 진행된 **전동 킥보드 위험 상황 디텍션** 프로젝트 레포지토리입니다.<br><br>
 
