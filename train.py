@@ -1,7 +1,7 @@
 from ultralytics import YOLO
 import argparse
 
-# Create an argument parser
+# Create argument parser
 parser = argparse.ArgumentParser(description="Model Training Script")
 
 parser.add_argument('--data', type=str, required=True, help='Path to the dataset YAML file')
@@ -12,10 +12,10 @@ parser.add_argument('--imgsz', type=int, default=640, help='Image size (default 
 parser.add_argument('--batch', type=int, default=16, help='Batch size (default = 16)')
 parser.add_argument('--lr', type=float, default=0.01, help='Initial learning rate (default = 0.01)')
 
-# Parse the arguments
+# Parse arguments
 args = parser.parse_args()
 
-# Load the YOLO model
+# Change this to desired version
 model = YOLO('yolov8s.pt')
 
 # Train with given arguments
