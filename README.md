@@ -10,12 +10,14 @@ AI-Hub의 [개인형 이동장치 안전 데이터](https://www.aihub.or.kr/aihu
 프로젝트에서 사용한 데이터셋은 [여기](https://drive.google.com/file/d/1q4bGIwgix613ubDHGA7YvBOtlL9s9jfX/view?usp=drive_link)서 다운로드 할 수 있습니다.<br><br>
 
 ### 데이터 전처리
-
-## 학습
+```
+python preprocess.py
+```
+### 학습
 ```
 python train.py
 ```
-## 추론
+### 추론
 ```
 python test.py
 ```
