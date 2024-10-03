@@ -6,7 +6,8 @@
 
 ## 사용 방법
 ### 데이터셋 준비
-AI-Hub의 [개인형 이동장치 안전 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=614)를 준비해야 합니다.<br><br>
+AI-Hub의 [개인형 이동장치 안전 데이터](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=614)를 준비해야 합니다.<br>
+프로젝트에서 사용한 데이터셋은 [여기](https://drive.google.com/file/d/1q4bGIwgix613ubDHGA7YvBOtlL9s9jfX/view?usp=drive_link)서 다운로드 할 수 있습니다.<br><br>
 
 ### 데이터 전처리
 
