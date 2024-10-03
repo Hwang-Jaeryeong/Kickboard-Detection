@@ -11,7 +11,7 @@ AI-Hub의 [개인형 이동장치 안전 데이터](https://www.aihub.or.kr/aihu
 
 ### 데이터 전처리
 ```
-python preprocess.py
+python preprocess.py # 추가해야 함
 ```
 ### 학습
 ```
