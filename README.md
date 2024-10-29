@@ -21,6 +21,6 @@ python train.py
 ```
 python test.py
 ```
-<br><br>
+
 ## 프로젝트 설명 페이지
 https://klee9.tistory.com/7
