@@ -13,6 +13,10 @@
 ```
 python -m pip install -r requirements.txt
 ```
+### 전처리 (optional)
+```
+python preprocess.py
+```
 ### 학습
 ```
 python train.py
