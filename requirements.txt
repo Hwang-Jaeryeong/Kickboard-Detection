@@ -1,4 +1,2 @@
-torch==2.5.0
-torchvision==0.16.0
-tqdm==4.66.1
-opencv-python==4.8.0.74
+opencv-python>=4.8.0
+ultralytics>=8.0.124
